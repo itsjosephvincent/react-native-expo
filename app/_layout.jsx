@@ -1,6 +1,6 @@
 import { Stack } from 'expo-router'
 import { StyleSheet, Text, useColorScheme, View } from 'react-native'
-import { Colors } from '../constants/colors'
+import { Colors } from '../constants/Colors'
 import { StatusBar } from 'expo-status-bar'
 
 const RootLayout = () => {
